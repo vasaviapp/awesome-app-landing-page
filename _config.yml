@@ -8,7 +8,7 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
+  name: Spelling Ninjas # REQUIRED - Enter your app name
   ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
@@ -51,14 +51,8 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 # Includes an icon for each username you enter
 #
 social-links:
-  github:
-  facebook:
   twitter:
-  pinterest:
-  instagram:
-  email:
-  youtube: # channel/<your_long_string> or <user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  email: contact@spellingninjas.com
 
 #
 # Enable/Disable Features & Page Elements
@@ -99,7 +93,7 @@ description: # Optional - Enter your site description
 #
 # Google Analytics
 #
-google_analytics: # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-180329715-1 # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
 
 #
 # !! You don't need to change any of the configuration flags below !!
