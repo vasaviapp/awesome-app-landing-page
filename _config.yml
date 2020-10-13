@@ -32,7 +32,7 @@ app:
   # e.g. images/app-preview.mp4
   # 640x1136px
 
-  app_twitter: @spelling_ninjas #uncomment if the app has a twitter account "@spelling_ninjas"
+  app_twitter: "@spelling_ninjas" #uncomment if the app has a twitter account "@spelling_ninjas"
   #creator_twitter: # uncomment if creator has a twitter account "@awesome-dev"
   #social_image: # uncomment and add an image - defaults to icon
   # This will show up when your url is shared on sites like facebook and twitter
@@ -51,7 +51,7 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 # Includes an icon for each username you enter
 #
 social-links:
-  twitter: @spelling_ninjas
+  twitter: spelling_ninjas
   email: contact@spellingninjas.com
 
 #
